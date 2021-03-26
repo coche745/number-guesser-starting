@@ -49,10 +49,11 @@ const generateTarget = () => {
   
   target = generateTarget();
   console.log(target);
-  winner = compareGuesses(9, 0, target);
+  winner = compareGuesses(8, 0, target);
   console.log(winner);
   updateScore(winner);
   console.log(humanScore);
   console.log(computerScore);
   advanceRound();
   console.log(currentRoundNumber);
+// this is a test!
