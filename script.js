@@ -62,7 +62,6 @@ const generateTarget = () => {
   console.log(winner);
   updateScore(winner);
   console.log(humanScore);
-  console.log(computerScore); */
-
-  advanceRound();
-  console.log(currentRoundNumber);
+  console.log(computerScore);
+  advanceRound(); 
+  console.log(currentRoundNumber); */
