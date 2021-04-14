@@ -19,8 +19,6 @@ This is a guessing game where a secret target number between 0 and 9 is generate
 + Updates score by 1 each round to whoever was closer.
 + Updates the round number each round.
 ## Setup
-To run this project, install it locally using git
-+ git clone https://github.com/coche745/number-guesser-starting
-+ open index.html file in browser, and play the game!
+To visit the website, go to https://coche745.github.io/number-guesser-starting/
 # Status
 Project is: in progress
